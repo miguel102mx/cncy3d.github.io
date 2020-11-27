@@ -43,7 +43,7 @@
             </form>
 
             <span class="text-footer">¿Ya te has registrado?
-                <a href="index.php">Iniciar Sesión</a>
+                <a href="index.html">Iniciar Sesión</a>
             </span>
         </div>
 

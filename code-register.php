@@ -88,7 +88,7 @@
                 
                 
                 if(mysqli_stmt_execute($stmt)){
-                    header("location: index.php");
+                    header("location: index.html");
                 }else{
                     echo "Algo Salio mal, intentalo despues";
                 }
